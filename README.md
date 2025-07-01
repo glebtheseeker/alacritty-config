@@ -1,1 +1,2 @@
-This is my configuration for personal usage!
+This is my configuration of Alacritty Terminal emulator
+![MyTheme](img/theme.png)
