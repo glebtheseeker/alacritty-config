@@ -1,2 +1,1 @@
-# alacritty-config
-My configuration of terminal
+This is my configuration for personal usage!
